@@ -21,10 +21,10 @@
 
 ## Screenshots:
 
-![Dashboard]
+![Dashboard](https://github.com/akshitsangwan/JPDB-Project/blob/46f507e56fdf76b11fc4c05681e7ac63c738a5d3/Assets/Screenshots/Dashboard.png)
 
-![Index Page]
+![Index Page](https://github.com/akshitsangwan/JPDB-Project/blob/46f507e56fdf76b11fc4c05681e7ac63c738a5d3/Assets/Screenshots/Index.png)
 
-![Visualize]
+![Visualize](https://github.com/akshitsangwan/JPDB-Project/blob/46f507e56fdf76b11fc4c05681e7ac63c738a5d3/Assets/Screenshots/Server.png)
 
 
